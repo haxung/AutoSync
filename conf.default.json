@@ -1,0 +1,8 @@
+{
+    "_comment": "This is just a example. If you want to run normally, to buy or lease Server.",
+    "hostname": "10.0.0.1",
+    "user": "root",
+    "password": "123456",
+    "upload_dir": "D:/user_note",
+    "download_dir": "D:/"
+}
